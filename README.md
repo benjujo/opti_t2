@@ -1,3 +1,10 @@
+# Tarea 2 -- IN3701
+Para ejecutar esta parte de la tarea es necesario tener `sagemath` instalado.
+Para correr basta con escribir en la consola
+```sh
+sage p2.sage
+```
+De igual forma, esto no es necesario, ya que se adjunta abajo los sistemas de ecuaciones para cada una de las soluciones báscias factibles en conjunto con los rayos.
 
 
 ## Vector (1,1)
